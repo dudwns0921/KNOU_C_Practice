@@ -72,6 +72,15 @@
     <ClCompile Include="chapter4_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="assignment1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chapter2_13.h">
